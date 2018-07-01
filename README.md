@@ -2,9 +2,16 @@
 
 
 ## Other flavors
-### Ubuntu - 18.04 coming soon
-### Mint - porting soon Please visit github until migration complete (matter of bandwidth... )
-### Trisquel - porting soon Please visit github until migration complete (matter of bandwidth... )
+### Ubuntu - Old Ubuntu 18.04 coming soon
+https://gitlab.com/remastersys/respin
+
+### Mint - updating soon
+https://gitlab.com/remastersys/MintyFresh2016
+
+### Trisquel - updating soon
+
+https://gitlab.com/remastersys/FreeRespin
+
 ### RedHat Live - port WIP
 ### Other - BSD - anticipated port 
     Incidentally, we fully support BSD and truly respect our BSD brothers and sisters.
