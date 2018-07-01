@@ -12,6 +12,9 @@
     https://www.debian.org/social_contract
     
     We will NOT hide problems.
-    Thanks to BSD for bringing about the fix for a vulnerability not disclosed. We at Linux Respin <3 you. And... we are working to get a BSD version soon! I hope... if we can get some 1337 contributors. :D
+    Thanks to BSD for bringing about the fix for a vulnerability not disclosed. 
+    We at Linux Respin <3 you. 
+    And... we are working to get a BSD version soon! 
+    I hope... if we can get some 1337 contributors. :D
     
 
