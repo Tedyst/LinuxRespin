@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Respin Backup
+GenericName=System Backup
+Comment=Backup the system to LiveCD/DVD
+Exec=kdesu /usr/bin/respin-gui
+Icon=/usr/share/icons/respin.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=System
+OnlyShowIn=KDE
+X-KDE-SubstituteUID=true
+GenericName[en_US]=System Backup
+Name[en_US]=respin-gui-kde.desktop

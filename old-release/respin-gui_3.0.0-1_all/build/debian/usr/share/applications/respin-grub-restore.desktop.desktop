@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Respin Grub Restore
+GenericName=Respin Grub Restore
+Comment=Restore grub
+Exec=remsu /usr/bin/respin-grub-restore gui
+Icon=/usr/share/icons/respin.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=GTK;System
+NotShowIn=KDE
+X-KDE-SubstituteUID=true
+GenericName[en_US]=Grub Restore
+Name[en_US]=respin-grub-restore.desktop

@@ -1,0 +1,16 @@
+
+[Desktop Entry]
+Name=Respin USB Startup Disk Tool
+GenericName=USB Startup Disk Tool
+Comment=USB Startup Disk Tool
+Exec=kdesu /usr/bin/respin-usb-key-copy-tool
+Icon=/usr/share/icons/respin.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=System
+OnlyShowIn=KDE
+X-KDE-SubstituteUID=true
+
+Name[en_US]=respin-usb-key-copy-tool-kde.desktop

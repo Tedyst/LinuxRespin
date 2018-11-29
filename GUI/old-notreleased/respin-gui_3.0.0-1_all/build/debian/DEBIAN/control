@@ -1,0 +1,11 @@
+Package: respin-gui
+Version: 0.0.0-1
+Section: Desktop
+Priority: optional
+Architecture: all
+Depends: gparted, xterm, read-edid, xresprobe, respin
+Suggests: 
+Maintainer: Respin Team <aicra@linuxrespin.org>
+Description: Debian system remaster  This is the gui frontend for respin  For more information, please visit http://www.linuxrespin.org
+Installed-size: 90
+Homepage: http://www.linuxrespin.org/
