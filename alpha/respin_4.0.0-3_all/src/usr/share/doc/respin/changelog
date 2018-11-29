@@ -1,0 +1,21 @@
+respin (4.0.0-2) unstable; urgency=low
+   * 4.0.0-2
+   * fixed typo in respin
+   * updated changes
+   * formatting of examples
+
+   * 4.0.0-1
+   * Changes to text
+   * Needs RESPINVERSION to output
+   * Updated images
+
+   * 2.0.0-1
+   * Compatible with Debian Stretch
+
+   * 1.1.0-1
+   * Minor Edits window managers
+
+   * 1.0.0-1
+   * First release.
+
+ -- Marcia Wilbur <aicra@linuxrespin.org>  Sun, 04 Nov 2018 20:05:44 -0500
