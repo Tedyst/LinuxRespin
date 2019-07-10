@@ -1081,9 +1081,6 @@ if [ -f /TARGET/etc/respin/trackerd.desktop.share ]; then
 mv /TARGET/etc/respin/trackerd.desktop.share /TARGET/usr/share/autostart/trackerd.desktop
 fi
 
-#restore original inittab as live-initramfs changes it
-cp /TARGET/usr/share/sysvinit/inittab /TARGET/etc/inittab
-
 #check if this is a backup livecd or a dist livecd
 if [ "$TARGETUSER" != "" ]; then
 
